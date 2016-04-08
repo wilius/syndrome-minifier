@@ -2,7 +2,7 @@
 
 Syndrome Minifier is javascript and css minifier. 
 
-### Usage
+### Example Config
 
 Create a xml file with name syndrome.xml. An example of this file like below:
 
@@ -30,14 +30,18 @@ Create a xml file with name syndrome.xml. An example of this file like below:
     </project>
 </projects>
 ```
-Exe version of project [available][df1]. Extract it and open parent folder via command line and type
 
+## Usage
+
+open command line and type 
 ```sh
-compiler d:\workspace\my-project\
+java -jar syndrome-compiler.jar d:\workspace\my-project\
 ```
 where 'd:\workspace\my-project\' is the root of the your web project that contains syndrome.xml definition xml.
 
 Note that we strongly recommend that open command line as root user in Linux like system and as Administrator in Windows.
+
+Exe version of project will available as soon as possible. 
 
 File math properties
 - Path in <File> tag are represents single files
