@@ -2,6 +2,12 @@
 
 Syndrome Minifier is javascript and css minifier. 
 
+### Requirements
+
+    Java 1.6 or higher
+    A proper config file (Exampla available on github)
+
+
 ### Example Config
 
 Create a xml file with name syndrome.xml. An example of this file like below:
