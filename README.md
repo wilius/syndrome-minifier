@@ -4,8 +4,8 @@ Syndrome Minifier is javascript and css minifier.
 
 ### Requirements
 
-    Java 1.6 or higher
-    A proper config file (Exampla available on github)
+* Java 1.6 or higher
+* A proper config file (Example available below)
 
 
 ### Example Config
